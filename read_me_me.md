@@ -1,3 +1,3 @@
 # demo
 
-Hello world
+Hello world. I'm learning git and github.
